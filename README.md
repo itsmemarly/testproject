@@ -1,5 +1,8 @@
 # Weather App
 
+![image](https://github.com/itsmemarly/weather-app/assets/31918408/650f7705-2db3-4135-a3dc-a8cd20d908a1)
+
+
 ## Overview
 
 The Weather App is a simple web application that allows users to check the current weather in different cities using the WeatherAPI.
